@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "",
   "VITE_APP_NAME": "ThemeConfig",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
@@ -32,7 +32,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "",
-  "VITE_USE_CUSTOM_PNL_POSTERS": "false",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
+  "VITE_USE_CUSTOM_PNL_POSTERS": "true",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
