@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Raydium Perpetuals is a fast, transparent, and user-friendly platform for perpetual trading, empowering traders to maximize opportunities with real-time performance tracking.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "Swap, https://raydium.io/swap/; Liquidity, https://raydium.io/liquidity-pools/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
